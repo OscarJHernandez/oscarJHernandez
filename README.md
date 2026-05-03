@@ -12,8 +12,9 @@ Data Engineer with a Ph.D. in Physics, focused on cloud data platforms, telemetr
 
 ## Current Interests
 
-- dbt and modern analytics engineering
+- Applied statistics and probability
+- data modelling, dbt and modern analytics engineering
 - streaming data systems
 - distributed systems
-- pricing experimentation and lifecycle analytics
+- optimal pricing experimentation and lifecycle analytics
 - low-level computer simulation projects
