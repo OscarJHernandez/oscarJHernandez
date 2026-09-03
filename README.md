@@ -1,6 +1,6 @@
 # Hi, I'm Oscar
 
-Data Engineer with a Ph.D. in Physics, focused on cloud data platforms, telemetry pipelines, analytics engineering, and production data systems.
+Data Scientist and Engineer with a Ph.D. in Physics, focused on cloud data platforms, telemetry pipelines, analytics engineering, and production data systems.
 
 ## Technical Focus
 
