@@ -2,6 +2,10 @@
 
 Data Scientist and Engineer with a Ph.D. in Physics, focused on cloud data platforms, telemetry pipelines, analytics engineering, and production data systems.
 
+
+## Personal Website:
+[oscarjavierhernandez.com](https://www.oscarjavierhernandez.com/go/github)
+
 ## Technical Focus
 
 - Python, SQL, PySpark
