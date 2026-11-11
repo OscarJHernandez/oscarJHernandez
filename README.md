@@ -6,6 +6,14 @@ Data Scientist and Engineer with a Ph.D. in Physics, focused on cloud data platf
 [![Agentic Systems Lab](https://img.shields.io/badge/Lab-Agentic_Systems_Lab-4f46e5?style=flat-square)](https://agentic-systems-lab.alpharelay.dev/)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-290%2B_citations-4285f4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.de/citations?user=xsoiVqAAAAAJ&hl=en)
 
+## [Personal Website ↗](https://www.oscarjavierhernandez.com/)
+
+**[Visit the live site → oscarjavierhernandez.com](https://www.oscarjavierhernandez.com/)**
+
+6+ years in industry, a Ph.D. in computational nuclear physics from UBC, and 290+ citations.
+
+My website has more about me: my [CV](https://www.oscarjavierhernandez.com/resume/), [academic research and publications](https://www.oscarjavierhernandez.com/research/), [projects](https://www.oscarjavierhernandez.com/projects/), and [writing](https://www.oscarjavierhernandez.com/blog/) on mathematics, physics, and software engineering.
+
 ## Technical Focus
 
 - Python, SQL, PySpark
@@ -75,11 +83,3 @@ Two applications running on the lab's Kubernetes cluster.
     </td>
   </tr>
 </table>
-
-## [Personal Website ↗](https://www.oscarjavierhernandez.com/)
-
-**[Visit the live site → oscarjavierhernandez.com](https://www.oscarjavierhernandez.com/)**
-
-6+ years in industry, a Ph.D. in computational nuclear physics from UBC, and 290+ citations.
-
-My website has more about me: my [CV](https://www.oscarjavierhernandez.com/resume/), [academic research and publications](https://www.oscarjavierhernandez.com/research/), [projects](https://www.oscarjavierhernandez.com/projects/), and [writing](https://www.oscarjavierhernandez.com/blog/) on mathematics, physics, and software engineering.
