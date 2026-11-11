@@ -82,4 +82,4 @@ Two applications running on the lab's Kubernetes cluster.
 
 6+ years in industry, a Ph.D. in computational nuclear physics from UBC, and 290+ citations.
 
-[![Personal website tour](assets/site-tour.gif)](https://www.oscarjavierhernandez.com/)
+My website has more about me: my [CV](https://www.oscarjavierhernandez.com/resume/), [academic research and publications](https://www.oscarjavierhernandez.com/research/), [projects](https://www.oscarjavierhernandez.com/projects/), and [writing](https://www.oscarjavierhernandez.com/blog/) on mathematics, physics, and software engineering.
