@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Oscar</h1>
 
-<p align="center">
-  Data Scientist and Engineer with a Ph.D. in Physics, focused on cloud data platforms, telemetry pipelines, analytics engineering, and production data systems.
-</p>
+Data Scientist and Engineer with a Ph.D. in Physics, focused on cloud data platforms, telemetry pipelines, analytics engineering, and production data systems.
 
 <p align="center">
   <a href="https://www.oscarjavierhernandez.com/"><img src="https://img.shields.io/badge/Website-oscarjavierhernandez.com-111?style=for-the-badge" alt="Website"></a>
@@ -56,7 +54,7 @@ Data platforms, agent systems, and language model applications, run on my own ha
 <table>
   <tr>
     <td width="52%" align="center" valign="top">
-      <a href="https://agentic-systems-lab.alpharelay.dev/#sophy"><img src="assets/sophy-components.gif" width="300" alt="Sophy, a hexapod robot, with its components labelled, then dancing"></a>
+      <a href="https://agentic-systems-lab.alpharelay.dev/#sophy"><img src="assets/sophy-full.gif" width="300" alt="Sophy, a hexapod robot, with its components labelled, then dancing with both hands"></a>
     </td>
     <td width="48%" valign="top">
       A local language model reads a robot's sensors through tools and proposes actions. Nothing moves until an agent check, the operator, and the robot's own safety gates all pass.
