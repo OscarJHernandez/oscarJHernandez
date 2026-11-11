@@ -6,6 +6,22 @@ Data Scientist and Engineer with a Ph.D. in Physics, focused on cloud data platf
 [![Agentic Systems Lab](https://img.shields.io/badge/Lab-Agentic_Systems_Lab-4f46e5?style=flat-square)](https://agentic-systems-lab.alpharelay.dev/)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-290%2B_citations-4285f4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.de/citations?user=xsoiVqAAAAAJ&hl=en)
 
+## Technical Focus
+
+- Python, SQL, PySpark
+- GCP, AWS, Azure, Databricks
+- Airflow, BigQuery, Terraform
+- Data modeling, ETL/ELT, analytics engineering
+- A/B testing, product analytics, telemetry systems
+
+## Current Interests
+
+- Applied statistics and probability
+- Data modeling, dbt, and modern analytics engineering
+- Streaming data systems
+- Distributed systems
+- Optimal pricing experimentation and lifecycle analytics
+
 ## [Agentic Systems Lab ↗](https://agentic-systems-lab.alpharelay.dev/)
 
 **[Visit the live site → agentic-systems-lab.alpharelay.dev](https://agentic-systems-lab.alpharelay.dev/)**
@@ -67,19 +83,3 @@ Two applications running on the lab's Kubernetes cluster.
 6+ years in industry, a Ph.D. in computational nuclear physics from UBC, and 290+ citations.
 
 [![Personal website tour](assets/site-tour.gif)](https://www.oscarjavierhernandez.com/)
-
-## Technical Focus
-
-- Python, SQL, PySpark
-- GCP, AWS, Azure, Databricks
-- Airflow, BigQuery, Terraform
-- Data modeling, ETL/ELT, analytics engineering
-- A/B testing, product analytics, telemetry systems
-
-## Current Interests
-
-- Applied statistics and probability
-- Data modeling, dbt, and modern analytics engineering
-- Streaming data systems
-- Distributed systems
-- Optimal pricing experimentation and lifecycle analytics
