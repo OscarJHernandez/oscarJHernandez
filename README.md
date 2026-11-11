@@ -1,45 +1,29 @@
-<h1 align="center">Hi, I'm Oscar</h1>
+# Hi, I'm Oscar
 
-Data Scientist and Engineer with a Ph.D. in Physics, focused on cloud data platforms, telemetry pipelines, analytics engineering, and production data systems.
+**Data Scientist & Engineer | Ph.D. Computational Physics**
 
-<p align="center">
-  <a href="https://www.oscarjavierhernandez.com/"><img src="https://img.shields.io/badge/Website-oscarjavierhernandez.com-111?style=for-the-badge" alt="Website"></a>
-  <a href="https://agentic-systems-lab.alpharelay.dev/"><img src="https://img.shields.io/badge/Lab-Agentic_Systems_Lab-4f46e5?style=for-the-badge" alt="Agentic Systems Lab"></a>
-  <a href="https://scholar.google.de/citations?user=xsoiVqAAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-290%2B_citations-4285f4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
-</p>
+I build production data systems, statistical applications, and AI-powered tools. My work combines industry experience in data engineering and experimentation with a background in scientific computing.
 
-## [Personal Website ↗](https://www.oscarjavierhernandez.com/)
+[![Personal Website](https://img.shields.io/badge/-Personal_Website-2d2d2d?style=flat-square)](https://www.oscarjavierhernandez.com/)
+[![Agentic Systems Lab](https://img.shields.io/badge/-Agentic_Systems_Lab-2d2d2d?style=flat-square)](https://agentic-systems-lab.alpharelay.dev/)
+[![Google Scholar](https://img.shields.io/badge/-Google_Scholar-2d2d2d?style=flat-square)](https://scholar.google.de/citations?user=xsoiVqAAAAAJ&hl=en)
 
-**[Visit the live site → oscarjavierhernandez.com](https://www.oscarjavierhernandez.com/)**
+## Selected Work
 
-6+ years in industry, a Ph.D. in computational nuclear physics from UBC, and 290+ citations.
+| Project | Focus |
+| --- | --- |
+| [Agentic Experimentation Factory](https://agentic-systems-lab.alpharelay.dev/#customer-intelligence-platform) | Kafka, Flink, lakehouse, data simulation |
+| [Sophy](https://agentic-systems-lab.alpharelay.dev/#sophy) | Robotics, autonomous agents, local LLMs |
+| [Minerva](https://github.com/OscarJHernandez/minerva) | Symbolic mathematics, scientific computing |
+| [LLM Benchmarks](https://github.com/OscarJHernandez/gmktec-evo-x2-local-llm-benchmarks) | Inference, hardware performance, telemetry |
 
-My website has more about me: my [CV](https://www.oscarjavierhernandez.com/resume/), [academic research and publications](https://www.oscarjavierhernandez.com/research/), [projects](https://www.oscarjavierhernandez.com/projects/), and [writing](https://www.oscarjavierhernandez.com/blog/) on mathematics, physics, and software engineering.
+## Technical Expertise
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Technical Focus</h3>
-      <ul>
-        <li>Python, SQL, PySpark</li>
-        <li>GCP, AWS, Azure, Databricks</li>
-        <li>Airflow, BigQuery, Terraform</li>
-        <li>Data modeling, ETL/ELT, analytics engineering</li>
-        <li>A/B testing, product analytics, telemetry systems</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Current Interests</h3>
-      <ul>
-        <li>Applied statistics and probability</li>
-        <li>Data modeling, dbt, and modern analytics engineering</li>
-        <li>Streaming data systems</li>
-        <li>Distributed systems</li>
-        <li>Optimal pricing experimentation and lifecycle analytics</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+**Data Engineering:** Python · SQL · PySpark · Kafka · Databricks
+
+**Infrastructure:** Kubernetes · Docker · Terraform · CI/CD
+
+**Scientific Computing & AI:** Bayesian Statistics · PyTorch · LLMs
 
 ## [Agentic Systems Lab ↗](https://agentic-systems-lab.alpharelay.dev/)
 
