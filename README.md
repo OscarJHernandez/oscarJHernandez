@@ -53,11 +53,24 @@ Data platforms, agent systems, and language model applications, run on my own ha
 
 ### [Sophy ↗](https://agentic-systems-lab.alpharelay.dev/#sophy)
 
-<p align="center">
-  <a href="https://agentic-systems-lab.alpharelay.dev/#sophy"><img src="assets/sophy-components.gif" width="480" alt="Sophy, a hexapod robot, with its components labelled, then dancing"></a>
-</p>
-
-A local language model reads a robot's sensors through tools and proposes actions. Nothing moves until an agent check, the operator, and the robot's own safety gates all pass. The robot above has a LiDAR, an RGB and depth camera, 18 servos, and an onboard NVIDIA Jetson Nano running ROS, and here it is dancing on the real hardware.
+<table>
+  <tr>
+    <td width="52%" align="center" valign="top">
+      <a href="https://agentic-systems-lab.alpharelay.dev/#sophy"><img src="assets/sophy-components.gif" width="300" alt="Sophy, a hexapod robot, with its components labelled, then dancing"></a>
+    </td>
+    <td width="48%" valign="top">
+      A local language model reads a robot's sensors through tools and proposes actions. Nothing moves until an agent check, the operator, and the robot's own safety gates all pass.
+      <br><br>
+      <b>On the robot:</b>
+      <ul>
+        <li>LiDAR</li>
+        <li>RGB and depth camera</li>
+        <li>18 servos</li>
+        <li>NVIDIA Jetson Nano running ROS</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ### More projects
 
