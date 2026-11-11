@@ -2,9 +2,10 @@
 
 Data Scientist and Engineer with a Ph.D. in Physics, focused on cloud data platforms, telemetry pipelines, analytics engineering, and production data systems.
 
+### Explore My Work
 
-## Personal Website:
-[oscarjavierhernandez.com](https://www.oscarjavierhernandez.com/go/github)
+- **[Personal Website](https://www.oscarjavierhernandez.com/#about)** — Professional background, experience, and technical expertise.
+- **[Agentic Systems Lab](https://agentic-systems-lab.alpharelay.dev/)** — Personal engineering projects, experiments, and technical explorations.
 
 ## Technical Focus
 
@@ -17,8 +18,7 @@ Data Scientist and Engineer with a Ph.D. in Physics, focused on cloud data platf
 ## Current Interests
 
 - Applied statistics and probability
-- data modelling, dbt and modern analytics engineering
-- streaming data systems
-- distributed systems
-- optimal pricing experimentation and lifecycle analytics
-- low-level computer simulation projects
+- Data modeling, dbt, and modern analytics engineering
+- Streaming data systems
+- Distributed systems
+- Optimal pricing experimentation and lifecycle analytics
