@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Oscar</h1>
 
-<p align="center">
-  Data Scientist and Engineer with a Ph.D. in Physics, focused on cloud data platforms, telemetry pipelines, analytics engineering, and production data systems.
-</p>
+Data Scientist and Engineer with a Ph.D. in Physics, focused on cloud data platforms, telemetry pipelines, analytics engineering, and production data systems.
 
 <p align="center">
   <a href="https://www.oscarjavierhernandez.com/"><img src="https://img.shields.io/badge/Website-oscarjavierhernandez.com-111?style=for-the-badge" alt="Website"></a>
