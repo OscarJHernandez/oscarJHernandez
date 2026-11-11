@@ -44,9 +44,9 @@ Data platforms, agent systems, and language model applications, run on my own ha
       Simulated customers send real events through Kafka and Flink into a lakehouse.
     </td>
     <td width="50%" align="center">
-      <a href="https://agentic-systems-lab.alpharelay.dev/#sophy"><img src="assets/sophy.gif" alt="Sophy demo"></a><br>
+      <a href="https://agentic-systems-lab.alpharelay.dev/#sophy"><img src="assets/sophy-robot.gif" alt="Sophy dancing on the physical robot"></a><br>
       <b><a href="https://agentic-systems-lab.alpharelay.dev/#sophy">Sophy</a></b><br>
-      A local language model reads a robot's sensors through tools and proposes actions behind safety gates.
+      A local language model reads a robot's sensors through tools and proposes actions behind safety gates. Shown here: Sophy dancing on the physical robot.
     </td>
   </tr>
   <tr>
