@@ -41,7 +41,24 @@ Data platforms, agent systems, and language model applications, run on my own ha
   </tr>
 </table>
 
-Also deployed on the lab's Kubernetes cluster: [Knitter](https://knitter.alpharelay.dev) and [RANK](https://rank.alpharelay.dev).
+### Deployed apps
+
+Two applications running on the lab's Kubernetes cluster.
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://knitter.alpharelay.dev"><img src="assets/knitter.jpg" alt="Knitter landing page"></a><br>
+      <b><a href="https://knitter.alpharelay.dev">Knitter</a></b><br>
+      A workspace for knitters and crocheters: pattern library, row counters, and a yarn stash.
+    </td>
+    <td width="50%" align="center">
+      <a href="https://rank.alpharelay.dev"><img src="assets/rank.jpg" alt="RANK landing page"></a><br>
+      <b><a href="https://rank.alpharelay.dev">RANK</a></b><br>
+      A recommender that learns your taste from pairwise choices between titles.
+    </td>
+  </tr>
+</table>
 
 ## [Personal Website ↗](https://www.oscarjavierhernandez.com/)
 
