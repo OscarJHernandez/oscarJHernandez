@@ -56,7 +56,7 @@ Data platforms, agent systems, and language model applications, run on my own ha
 <table>
   <tr>
     <td width="52%" align="center" valign="top">
-      <a href="https://agentic-systems-lab.alpharelay.dev/#sophy"><img src="assets/sophy-components.gif" width="300" alt="Sophy, a hexapod robot, with its components labelled, then dancing"></a>
+      <a href="https://agentic-systems-lab.alpharelay.dev/#sophy"><img src="assets/sophy-full.gif" width="300" alt="Sophy, a hexapod robot, with its components labelled, then dancing with both hands"></a>
     </td>
     <td width="48%" valign="top">
       A local language model reads a robot's sensors through tools and proposes actions. Nothing moves until an agent check, the operator, and the robot's own safety gates all pass.
