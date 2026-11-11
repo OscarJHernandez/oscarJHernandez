@@ -1,12 +1,12 @@
 # Hi, I'm Oscar
 
-**Data Scientist & Engineer | Ph.D. Computational Physics**
-
-I build production data systems, statistical applications, and AI-powered tools. My work combines industry experience in data engineering and experimentation with a background in scientific computing.
-
 <a href="https://www.oscarjavierhernandez.com/"><img src="https://img.shields.io/badge/Website-oscarjavierhernandez.com-111?style=for-the-badge" alt="Website"></a>
 <a href="https://agentic-systems-lab.alpharelay.dev/"><img src="https://img.shields.io/badge/Lab-Agentic_Systems_Lab-4f46e5?style=for-the-badge" alt="Agentic Systems Lab"></a>
 <a href="https://scholar.google.de/citations?user=xsoiVqAAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-290%2B_citations-4285f4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
+
+**Data Scientist & Engineer | Ph.D. Computational Physics**
+
+I build production data systems, statistical applications, and AI-powered tools. My work combines industry experience in data engineering and experimentation with a background in scientific computing.
 
 ## Technical Expertise
 
