@@ -8,22 +8,13 @@ I build production data systems, statistical applications, and AI-powered tools.
 [![Agentic Systems Lab](https://img.shields.io/badge/-Agentic_Systems_Lab-2d2d2d?style=flat-square)](https://agentic-systems-lab.alpharelay.dev/)
 [![Google Scholar](https://img.shields.io/badge/-Google_Scholar-2d2d2d?style=flat-square)](https://scholar.google.de/citations?user=xsoiVqAAAAAJ&hl=en)
 
-## Selected Work
-
-| Project | Focus |
-| --- | --- |
-| [Agentic Experimentation Factory](https://agentic-systems-lab.alpharelay.dev/#customer-intelligence-platform) | Kafka, Flink, lakehouse, data simulation |
-| [Sophy](https://agentic-systems-lab.alpharelay.dev/#sophy) | Robotics, autonomous agents, local LLMs |
-| [Minerva](https://github.com/OscarJHernandez/minerva) | Symbolic mathematics, scientific computing |
-| [LLM Benchmarks](https://github.com/OscarJHernandez/gmktec-evo-x2-local-llm-benchmarks) | Inference, hardware performance, telemetry |
-
 ## Technical Expertise
 
 **Data Engineering:** Python · SQL · PySpark · Kafka · Databricks
 
 **Infrastructure:** Kubernetes · Docker · Terraform · CI/CD
 
-**Scientific Computing & AI:** Bayesian Statistics · PyTorch · LLMs
+**Scientific Computing & AI:** Bayesian Statistics · LLMs
 
 ## [Agentic Systems Lab ↗](https://agentic-systems-lab.alpharelay.dev/)
 
