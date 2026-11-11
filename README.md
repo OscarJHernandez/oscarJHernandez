@@ -4,9 +4,9 @@
 
 I build production data systems, statistical applications, and AI-powered tools. My work combines industry experience in data engineering and experimentation with a background in scientific computing.
 
-[![Personal Website](https://img.shields.io/badge/-Personal_Website-2d2d2d?style=flat-square)](https://www.oscarjavierhernandez.com/)
-[![Agentic Systems Lab](https://img.shields.io/badge/-Agentic_Systems_Lab-2d2d2d?style=flat-square)](https://agentic-systems-lab.alpharelay.dev/)
-[![Google Scholar](https://img.shields.io/badge/-Google_Scholar-2d2d2d?style=flat-square)](https://scholar.google.de/citations?user=xsoiVqAAAAAJ&hl=en)
+<a href="https://www.oscarjavierhernandez.com/"><img src="https://img.shields.io/badge/Website-oscarjavierhernandez.com-111?style=for-the-badge" alt="Website"></a>
+<a href="https://agentic-systems-lab.alpharelay.dev/"><img src="https://img.shields.io/badge/Lab-Agentic_Systems_Lab-4f46e5?style=for-the-badge" alt="Agentic Systems Lab"></a>
+<a href="https://scholar.google.de/citations?user=xsoiVqAAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-290%2B_citations-4285f4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
 
 ## Technical Expertise
 
