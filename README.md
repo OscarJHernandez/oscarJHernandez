@@ -6,7 +6,25 @@ Data Scientist and Engineer with a Ph.D. in Physics, focused on cloud data platf
 [![Agentic Systems Lab](https://img.shields.io/badge/Lab-Agentic_Systems_Lab-4f46e5?style=flat-square)](https://agentic-systems-lab.alpharelay.dev/)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-290%2B_citations-4285f4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.de/citations?user=xsoiVqAAAAAJ&hl=en)
 
-## Agentic Systems Lab
+## Technical Focus
+
+- Python, SQL, PySpark
+- GCP, AWS, Azure, Databricks
+- Airflow, BigQuery, Terraform
+- Data modeling, ETL/ELT, analytics engineering
+- A/B testing, product analytics, telemetry systems
+
+## Current Interests
+
+- Applied statistics and probability
+- Data modeling, dbt, and modern analytics engineering
+- Streaming data systems
+- Distributed systems
+- Optimal pricing experimentation and lifecycle analytics
+
+## [Agentic Systems Lab ↗](https://agentic-systems-lab.alpharelay.dev/)
+
+**[Visit the live site → agentic-systems-lab.alpharelay.dev](https://agentic-systems-lab.alpharelay.dev/)**
 
 Data platforms, agent systems, and language model applications, run on my own hardware: local models on a GMKtec EVO-X2, simulated customer data on a Raspberry Pi cluster, and apps on a self-hosted Kubernetes cluster.
 
@@ -39,26 +57,29 @@ Data platforms, agent systems, and language model applications, run on my own ha
   </tr>
 </table>
 
-Also deployed on the lab's Kubernetes cluster: [Knitter](https://knitter.alpharelay.dev) and [RANK](https://rank.alpharelay.dev).
+### Deployed apps
 
-## Personal Website
+Two applications running on the lab's Kubernetes cluster.
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://knitter.alpharelay.dev"><img src="assets/knitter.jpg" alt="Knitter landing page"></a><br>
+      <b><a href="https://knitter.alpharelay.dev">Knitter</a></b><br>
+      A workspace for knitters and crocheters: pattern library, row counters, and a yarn stash.
+    </td>
+    <td width="50%" align="center">
+      <a href="https://rank.alpharelay.dev"><img src="assets/rank.jpg" alt="RANK landing page"></a><br>
+      <b><a href="https://rank.alpharelay.dev">RANK</a></b><br>
+      A recommender that learns your taste from pairwise choices between titles.
+    </td>
+  </tr>
+</table>
+
+## [Personal Website ↗](https://www.oscarjavierhernandez.com/)
+
+**[Visit the live site → oscarjavierhernandez.com](https://www.oscarjavierhernandez.com/)**
 
 6+ years in industry, a Ph.D. in computational nuclear physics from UBC, and 290+ citations.
 
 [![Personal website tour](assets/site-tour.gif)](https://www.oscarjavierhernandez.com/)
-
-## Technical Focus
-
-- Python, SQL, PySpark
-- GCP, AWS, Azure, Databricks
-- Airflow, BigQuery, Terraform
-- Data modeling, ETL/ELT, analytics engineering
-- A/B testing, product analytics, telemetry systems
-
-## Current Interests
-
-- Applied statistics and probability
-- Data modeling, dbt, and modern analytics engineering
-- Streaming data systems
-- Distributed systems
-- Optimal pricing experimentation and lifecycle analytics
