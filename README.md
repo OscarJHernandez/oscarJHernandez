@@ -6,7 +6,9 @@ Data Scientist and Engineer with a Ph.D. in Physics, focused on cloud data platf
 [![Agentic Systems Lab](https://img.shields.io/badge/Lab-Agentic_Systems_Lab-4f46e5?style=flat-square)](https://agentic-systems-lab.alpharelay.dev/)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-290%2B_citations-4285f4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.de/citations?user=xsoiVqAAAAAJ&hl=en)
 
-## Agentic Systems Lab
+## [Agentic Systems Lab ↗](https://agentic-systems-lab.alpharelay.dev/)
+
+**[Visit the live site → agentic-systems-lab.alpharelay.dev](https://agentic-systems-lab.alpharelay.dev/)**
 
 Data platforms, agent systems, and language model applications, run on my own hardware: local models on a GMKtec EVO-X2, simulated customer data on a Raspberry Pi cluster, and apps on a self-hosted Kubernetes cluster.
 
@@ -41,7 +43,9 @@ Data platforms, agent systems, and language model applications, run on my own ha
 
 Also deployed on the lab's Kubernetes cluster: [Knitter](https://knitter.alpharelay.dev) and [RANK](https://rank.alpharelay.dev).
 
-## Personal Website
+## [Personal Website ↗](https://www.oscarjavierhernandez.com/)
+
+**[Visit the live site → oscarjavierhernandez.com](https://www.oscarjavierhernandez.com/)**
 
 6+ years in industry, a Ph.D. in computational nuclear physics from UBC, and 290+ citations.
 
