@@ -8,8 +8,6 @@ Data Scientist and Engineer with a Ph.D. in Physics, focused on cloud data platf
 
 ## [Personal Website ↗](https://www.oscarjavierhernandez.com/)
 
-**[Visit the live site → oscarjavierhernandez.com](https://www.oscarjavierhernandez.com/)**
-
 6+ years in industry, a Ph.D. in computational nuclear physics from UBC, and 290+ citations.
 
 My website has more about me: my [CV](https://www.oscarjavierhernandez.com/resume/), [academic research and publications](https://www.oscarjavierhernandez.com/research/), [projects](https://www.oscarjavierhernandez.com/projects/), and [writing](https://www.oscarjavierhernandez.com/blog/) on mathematics, physics, and software engineering.
